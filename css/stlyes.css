@@ -80,3 +80,36 @@ body {
 .img {
   margin-bottom: 15px;
 }
+.column1 ul {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.column1 li {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.column2 ul {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.column2 li {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.column3 ul {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.column3 li {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.column4 ul {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.column4 li {
+  font-family:Arial, Helvetica, sans-serif;
+}
+#is {
+  font-style:italic;
+}
+.column5 ul {
+  font-family:Arial, Helvetica, sans-serif;
+}
+.column5 li {
+  font-family:Arial, Helvetica, sans-serif;
+}
