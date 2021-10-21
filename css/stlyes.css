@@ -1,6 +1,79 @@
 body {
-  background-color: #000;
+  background-color: #fff;
 }
-.headline {
-  color: rgb(194, 164, 164);
+.header {
+  color: rgb(138, 54, 54);
+  text-align:center;
+}
+.title {
+  color:black;
+  font-family:Arial, Helvetica, sans-serif;
+  width: 17%;
+  float: left;
+  text-align:center;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid rgb(34, 29, 34);
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+.column1 {
+  color:black;
+  background-color:rgb(204, 190, 154);
+  width: 17%;
+  float: left;
+  text-align:justify;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid rgb(34, 29, 34);
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+.column2 {
+  color:black;
+  background-color:rgb(204, 190, 154);
+  width: 17%;
+  float: left;
+  text-align:justify;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid rgb(34, 29, 34);
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+.column3 {
+  color:black;
+  background-color:rgb(204, 190, 154);
+  width: 17%;
+  float: left;
+  text-align:justify;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid rgb(34, 29, 34);
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+.column4 {
+  color:black;
+  background-color:rgb(204, 190, 154);
+  width: 17%;
+  float: left;
+  text-align:justify;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid rgb(34, 29, 34);
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+.column5 {
+  color:black;
+  background-color:rgb(204, 190, 154);
+  width: 17%;
+  float: left;
+  text-align:justify;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: solid rgb(34, 29, 34);
+  border-width: 1px;
+  margin-bottom: 10px;
 }
